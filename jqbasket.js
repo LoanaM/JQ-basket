@@ -39,10 +39,10 @@ for (var k = 0; k < 100; k++) {
       $('#foto').addClass(arraygiocatori[i].foto);
       $('#codice').html(arraygiocatori[i].code);
       $('#punti').html(arraygiocatori[i].points);
-      document.getElementById('rimbalzi').innerHTML = arraygiocatori[i].rimbalzi
-      document.getElementById('falli').innerHTML = arraygiocatori[i].falli
-      document.getElementById('tiri2').innerHTML = arraygiocatori[i].success2pt
-      document.getElementById('tiri3').innerHTML = arraygiocatori[i].success3pt
+      $('#rimbalzi').html(arraygiocatori[i].rimbalzi);
+      $('#falli').html(arraygiocatori[i].falli);
+      $('#tiri2').html(arraygiocatori[i].success2pt);
+      $('#tiri3').html(arraygiocatori[i].success3pt);
       }
     }
 
