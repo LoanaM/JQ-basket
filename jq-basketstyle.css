@@ -1,0 +1,60 @@
+.cornice {
+  width: 500px;
+  height: 400px;
+  border: 2px solid black;
+  background: radial-gradient(orange, yellow);
+}
+.information {
+  float:right;
+  margin-right: 10px;
+  padding-left: 10px;
+  width: 230px;
+  height: 300px;
+  background-color: rgba(0, 0, 255, 0.1)
+}
+#foto {
+  float: left;
+  margin-left: 5px;
+  width: 240px;
+  height: 300px;
+}
+.bck-img1 {
+  background-image: url('http://www.topolino.it/assets/PERSONAGGI/_resampled/croppedimage318436-cicciointera.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.bck-img2 {
+  background-image: url('http://www.topolino.it/assets/PERSONAGGI/_resampled/croppedimage318436-nonnapaperaintera.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.bck-img3 {
+  background-image: url('http://www.topolino.it/assets/PERSONAGGI/_resampled/croppedimage318436-paperinointera.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.bck-img4 {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREw70Z2z07RrnO6nuX8wTMoYsSbZVLOlOqGFpR9CnNX2cFoPVB');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.bck-img5 {
+  background-image: url('https://img.fireden.net/co/image/1448/24/1448243346667.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.bck-img6 {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mrLVjBDPevPFsrcibmpZYh9sqTI6IWPcY7_g-RD90kvbYsyN');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.bck-img7 {
+  background-image: url('http://www.topolino.it/assets/PERSONAGGI/_resampled/croppedimage318436-okquackintera.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.bck-img8 {
+  background-image: url('https://i.pinimg.com/originals/1e/52/96/1e5296f05d353e62ae3776e501350708.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
